@@ -1,0 +1,12 @@
+C:\Users\yoanr\source\repos\GestionMagasin\bin\Debug\GestionMagasin.exe.config
+C:\Users\yoanr\source\repos\GestionMagasin\bin\Debug\GestionMagasin.exe
+C:\Users\yoanr\source\repos\GestionMagasin\bin\Debug\GestionMagasin.pdb
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.csproj.AssemblyReference.cache
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.Form1.resources
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.FormBasket.resources
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.Properties.Resources.resources
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.csproj.GenerateResource.cache
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.csproj.CoreCompileInputs.cache
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.exe
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.pdb
+C:\Users\yoanr\source\repos\GestionMagasin\obj\Debug\GestionMagasin.FormOrder.resources
